@@ -1,0 +1,117 @@
+@charset "UTF-8";
+body h1 {
+    color: rgba(143,180,129,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    padding-left: 10px;
+}
+
+body h2 {
+    font-family: "Futura Hv BT";
+    color: #DD871A;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#image {
+    float: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+#imagee {
+    float: left;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#imagee3 {
+    float: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+
+
+
+body p {
+    font-family: "Futura Bk BT";
+    font-size: medium;
+    padding-left: 10px;
+    padding-right: 10px;
+    letter-spacing: 0px;
+}
+#image4 {
+    float: right;
+    padding-right: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+#image5 {
+    padding-right: 35px;
+    float: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+body blockquote p {
+    padding-right: 10px;
+}
+#image6 {
+    float: right;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+}
+
+
+
+
+body ul li {
+    font-family: "Futura Bk BT";
+    text-align: left;
+}
+
+body h5 strong {
+    color: #E08021;
+    font-family: "Futura Hv BT";
+    font-size: 20px;
+    padding-left: 5px;
+    text-align: center;
+}
+body h6 strong {
+    font-size: 20px;
+    font-family: "Futura Hv BT";
+    color: #2A9DA9;
+    text-align: left;
+    padding-left: 10px;
+}
+
+body p {
+    text-align: left;
+}
+
+
+
+
+body h3 {
+    font-family: "Futura Hv BT";
+    font-size: 20px;
+    color: #56886E;
+    padding-left: 10px;
+}
+#Menu {
+    text-align: center;
+}
+#Main {
+    width: 70%;
+    margin-left: 15%;
+    background-color: #ECECEC;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
